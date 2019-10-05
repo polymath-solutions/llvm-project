@@ -4,6 +4,8 @@ This directory and its sub-directories contain source code for LLVM,
 a toolkit for the construction of highly optimized compilers,
 optimizers, and run-time environments.
 
+*** This is the Polymath Solution fork ***
+
 The README briefly describes how to get started with building LLVM.
 For more information on how to contribute to the LLVM project, please
 take a look at the
